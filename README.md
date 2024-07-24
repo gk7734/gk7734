@@ -42,3 +42,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gk7734/gk7734/output/snake.svg" alt="Snake animation" />
+
+###
