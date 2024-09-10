@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is gk7734  and <br> I am a front-end developer at Daegu Software Meister High School.</h2>
+<h2 align="left">Hi 👋! My name is gk7734  and <br> I am a Front-End developer at Daegu Software Meister High School.</h2>
 
 ###
 
