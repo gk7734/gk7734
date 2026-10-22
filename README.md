@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is gk7734  and <br> I am a Software Engineer at Daegu Software Meister High School.</h2>
+<h2 align="left">Hi 👋! My name is gk7734 and <br> I am a Software Engineer building <a href="https://luna.orrery.studio">Luna</a> at <a href="https://orrery.studio">Orrery</a>.</h2>
 
 ###
 
